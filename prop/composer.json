@@ -1,0 +1,16 @@
+{
+    "name": "prop",
+    "description": "php framework",
+    "type": "library",
+    "keywords": [
+        "framework",
+        "mvc"
+    ],
+    "homepage": "github.com/kyai",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "kyai"
+        }
+    ],
+}
